@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  text-align: center;
+}
+
+form {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#content {
+  width: 50%;
+}
+
+.loading {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.loading-img {
+  width: 250px;
+}
